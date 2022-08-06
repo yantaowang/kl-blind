@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kl-blind/.idea/kl-blind.iml" filepath="$PROJECT_DIR$/../kl-blind/.idea/kl-blind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kl-blind/kl-blind-service/kl-blind-service.iml" filepath="$PROJECT_DIR$/../kl-blind/kl-blind-service/kl-blind-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kl-blind/kl-blind-web/kl-blind-web.iml" filepath="$PROJECT_DIR$/../kl-blind/kl-blind-web/kl-blind-web.iml" />
+    </modules>
+  </component>
+</project>

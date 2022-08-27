@@ -5,21 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b82f82-ccb9-46b3-9c00-776fad10fcf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/kl-blind.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/kl-blind-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/kl-blind-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kl-blind/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/dto/UserCreateDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/ActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/UserConditionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/UserFollowService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/impl/ActivityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/impl/UserConditionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/impl/UserFollowServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/src/main/java/com/kl/blind/service/vo/UserInfoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/src/main/java/com/kl/blind/KlBlindWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/src/main/java/com/kl/blind/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/.idea/kl-blind.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/.idea/kl-blind.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/kl-blind-service/kl-blind-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/kl-blind-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/kl-blind-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/kl-blind-web/kl-blind-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/kl-blind-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/kl-blind-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/kl-blind-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kl-blind/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kl-blind/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../kl-blind" />
@@ -28,6 +51,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\repository" />
+        <option name="userSettingsFile" value="C:\Users\wangyantao\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -38,28 +62,49 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kl-blind" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kl-platform" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\创业\work\kl-blind" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kl.blind.controller" />
+      <recent name="com.kl.blind.service" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlBlindWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kl-blind-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kl.blind.KlBlindWebApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,8 +118,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659786290768</updated>
-      <workItem from="1659786292160" duration="2482000" />
+      <workItem from="1659786292160" duration="5216000" />
+      <workItem from="1661565635996" duration="6141000" />
     </task>
+    <task id="LOCAL-00001" summary="kl">
+      <created>1659791212949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659791212949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +144,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kl" />
+    <option name="LAST_COMMIT_MESSAGE" value="kl" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

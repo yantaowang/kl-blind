@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b82f82-ccb9-46b3-9c00-776fad10fcf9" name="Default Changelist" comment="">
+    <list default="true" id="e3b82f82-ccb9-46b3-9c00-776fad10fcf9" name="Default Changelist" comment="kl">
       <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kl-blind/.idea/uiDesigner.xml" afterDir="false" />
@@ -89,19 +89,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KlBlindWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="kl-blind-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kl.blind.KlBlindWebApplication" />
@@ -119,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659786290768</updated>
       <workItem from="1659786292160" duration="5216000" />
-      <workItem from="1661565635996" duration="6141000" />
+      <workItem from="1661565635996" duration="6193000" />
     </task>
     <task id="LOCAL-00001" summary="kl">
       <created>1659791212949</created>
@@ -128,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659791212949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kl">
+      <created>1661573600903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661573600903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
